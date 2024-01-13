@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![](Benny Rochwerg Image.jpg)
+![](Benny%20Rochwerg%20Image.jpg)
 
 Hello!
 

@@ -6,4 +6,4 @@ January 2023\
 **Undergraduate Research in Natural and Clinical Sciences and Technology (URNCST) Journal**\
 *Risk Factors for Colorectal Cancer in Patients with Inflammatory Bowel Disease and Management During Cancer Treatment: A Systematic Review*
 
-![](Benny Rochwerg Publication – Jan 2023.pdf){fig-align="center" width="1000" height="2000"}
+![](Benny%20Rochwerg%20Publication%20–%20Jan%202023.pdf){fig-align="center" width="1000" height="2000"}
