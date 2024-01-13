@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+Here is my CV as of January 2024:
+
+![](Benny Rochwerg CV – Jan 2024.pdf){fig-align="center" width="1000" height="2000"}
